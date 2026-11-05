@@ -33,6 +33,7 @@ Model names are examples only. The platform name is what decides.
 | RS818RP+ | 7.2.2 |
 | RS820+ | 7.3.2 |
 | DS1517+ | 7.2.2 (Web Station integration, all extensions, imagick, benchmark below) |
+| DS723+ | 7.4.1 |
 
 **ARM packages:** built from the same recipe, but **not tested on real hardware**, so consider them
 beta. Feedback is welcome.
